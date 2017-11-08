@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+    "appUUID": "cc75748f-5f49-4362-94d2-1d080384f1ae",
+    "appType": "app",
+    "appDisplayName": "TickMarks",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#2196f3",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "TickMarks"
+      }
+    }
+  }
+}

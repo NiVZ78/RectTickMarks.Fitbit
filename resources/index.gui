@@ -1,0 +1,101 @@
+<svg class="portrait-view">
+
+  <symbol id="clock-widget" class='clock-widget' type='clock-widget'
+        focusable='false' pointer-events='visible' system-events='all'
+        x='0' y='0' width='100%' height='100%' data-size='16'/>
+    
+  <rect id="tickrect" x="49" y="0" width="250" height="250" fill="black" />
+ 
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="6" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+  <line class="minutes" x1="0" y1="0" x2="0" y2="0" fill="white" stroke-width="2" />
+
+    
+<!-- Analog Clock -->
+      <use id="analog-watch-hands" href='#clock-widget' display="inline">
+
+
+        <!-- clock hands -->
+        <g transform='translate(50%,50%)'>
+
+          <g id="minute-hand">
+              <rect x="-6" y="-122" width="10" height="122" fill="black" />
+              <rect x="-4" y="-120" width="8" height="120" fill="white" />
+           </g>
+
+          <g id="hour-hand">
+              <rect x="-6" y="-80" width="12" height="80" fill="black" />
+              <rect x="-4" y="-78" width="10" height="78" fill="red" />
+          </g>
+
+          <g id="second-hand">
+              <line id="secondHand" x1="0" y1="-125" x2="0" y2="40" stroke-width="2" fill="orange" />
+          </g>      
+
+          <g id="dot">
+              <circle cx="0" cy="0" r="11" fill="orange"/>
+              
+              <circle cx="0" cy="0" r="7" fill="black"/>
+          </g>
+        </g>
+
+      </use>
+  
+</svg>
